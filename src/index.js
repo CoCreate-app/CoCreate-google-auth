@@ -7,7 +7,7 @@ const CoCreateGoogleAuth = {
 	
 	action_generateAuthURL: function(element, data) {
 	    console.log('action generateAuthURL');
-		CoCreateApi.send('googleauth', 'generateAuthURL', {});
+		CoCreate.api.send('googleauth', 'generateAuthURL', {});
 	},
 	
 	render_generateAuthURL: function (data) {
@@ -19,7 +19,7 @@ const CoCreateGoogleAuth = {
 	
 }
 
-CoCreate.api.init({
+api.init({
 	name: CoCreateGoogleAuth.id, 
 	module:	CoCreateGoogleAuth,
 });
