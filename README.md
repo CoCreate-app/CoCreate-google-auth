@@ -9,7 +9,7 @@ A simple google-auth component in vanilla javascript. Easily configured using HT
 
 ![CoCreate-google-auth](https://cdn.cocreate.app/docs/CoCreate-google-auth.gif)
 
-## [Docs & Demo](https://cocreate.app/docs/clone)
+## [Docs & Demo](https://cocreate.app/docs/google-auth)
 
 For a complete guide and working demo refer to the [doumentation](https://cocreate.app/docs/google-auth)
 
