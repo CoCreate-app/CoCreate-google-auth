@@ -1,6 +1,6 @@
 {
   "name": "@cocreate/google-auth",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A simple google-auth component in vanilla javascript. Easily configured using HTML5 data-attributes and/or JavaScript API.",
   "keywords": [
     "google-auth",
@@ -59,7 +59,10 @@
     "webpack-log": "^3.0.1"
   },
   "dependencies": {
+    "@cocreate/api": "^1.0.6",
     "@cocreate/docs": "^1.0.3",
-    "mini-css-extract-plugin": "^1.5.0"
+    "google-auth-library": "^7.0.4",
+    "mini-css-extract-plugin": "^1.5.0",
+    "passport-google-oauth": "^2.0.0"
   }
 }
