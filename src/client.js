@@ -6,7 +6,6 @@ const CoCreateGoogleAuth = {
 	],
 	
 
-	
 	render_generateAuthURL: function (data) {
         if (data.object == "error") {
         	console.log(data.data);
