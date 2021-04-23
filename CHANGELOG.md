@@ -1,3 +1,10 @@
+## [1.0.4](https://github.com/CoCreate-app/CoCreate-google-auth/compare/v1.0.3...v1.0.4) (2021-04-23)
+
+
+### Bug Fixes
+
+* readme and documentation. Removed securitykeys ([f5856f4](https://github.com/CoCreate-app/CoCreate-google-auth/commit/f5856f4659f2f02fd76c767978c4ade26dbc6b13))
+
 ## [1.0.3](https://github.com/CoCreate-app/CoCreate-google-auth/compare/v1.0.2...v1.0.3) (2021-04-23)
 
 
