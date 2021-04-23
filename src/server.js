@@ -1,5 +1,5 @@
 'use strict'
-var utils= require('@cocreate/api/src/server/');
+var utils= require('@cocreate/api');
 var http = require('http');
 var passport = require('passport');
 
@@ -26,6 +26,7 @@ class CoCreateDataGoogleAuth {
 		}
 	}
 	async GoogleAuthOperations(socket, data) {
+	  console.log("Google Auth socekt")
 	    let that = this;
         let type = data['type'];
         const params = data['data'];
@@ -35,6 +36,7 @@ class CoCreateDataGoogleAuth {
                let org_row = await api.getOrg(params,this.module_id);
                this.GOOGLE_CLIENT_ID = org_row['apis.'+this.module_id+'.'+enviroment+'.GOOGLE_CLIENT_ID'];
                this.GOOGLE_CLIENT_SECRET = org_row['apis.'+this.module_id+'.'+enviroment+'.GOOGLE_CLIENT_SECRET'];
+               console.log(" KEY GOOGLE "+this.GOOGLE_CLIENT_SECRET)
       	 }catch(e){
       	   	console.log(this.module_id+" : Error Connect to api",e)
       	   	return false;
