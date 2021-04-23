@@ -71,7 +71,7 @@ class CoCreateDataGoogleAuth {
     });
 
     // Open an http server to accept the oauth callback. In this simple example, the
-    // only request to our webserver is to /oauth2callback?code=<code>
+    // only request to our webserver is to /oauth2callback?code=<code class="language-js">
     const server = http
       .createServer(async (req, res) => {
         try {
