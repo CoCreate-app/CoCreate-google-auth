@@ -9,7 +9,7 @@ const open = require('open');
 const url = require('url');
 const destroyer = require('server-destroy');
 
-class CoCreateDataGoogleAuth {
+class CoCreateGoogleAuth {
 	constructor(wsManager) {
 		this.module_id = 'googleauth';
 		this.wsManager = wsManager;
@@ -60,10 +60,11 @@ class CoCreateDataGoogleAuth {
   return new Promise((resolve, reject) => {
     // create an oAuth client to authorize the API call.  Secrets are kept in a `keys.json` file,
     // which should be downloaded from the Google Developers Console.
+    const port = 3004; // before 3000
     const oAuth2Client = new OAuth2Client(
       this.GOOGLE_CLIENT_ID,
       this.GOOGLE_CLIENT_SECRET,
-      'http://52.203.210.252:3000/oauth2callback'
+      'http://server.cocreate.app:'+port+'/oauth2callback'
     );
 
     // Generate the url that will be used for the consent dialog.
@@ -74,11 +75,12 @@ class CoCreateDataGoogleAuth {
 
     // Open an http server to accept the oauth callback. In this simple example, the
     // only request to our webserver is to /oauth2callback?code=<code class="language-js">
+    
     const server = http
       .createServer(async (req, res) => {
         try {
           if (req.url.indexOf('/oauth2callback') > -1) {
-            const qs = new url.URL(req.url, 'http://localhost:3000').searchParams;
+            const qs = new url.URL(req.url, 'http://server.cocreate.app:'+port).searchParams;
             const code = qs.get('code');
             console.log(`Code is ${code}`);
             res.end('Authentication successful! Please return to the console.');
@@ -96,7 +98,7 @@ class CoCreateDataGoogleAuth {
           reject(e);
         }
       })
-      .listen(3000, () => {
+      .listen(port, () => {
           api.send_response(that.wsManager, socket, {"type":type,"response":authorizeUrl}, this.module_id)
         // // open the browser to the authorize url to start the workflow
         // open(authorizeUrl, {wait: false}).then(cp => cp.unref());
@@ -107,4 +109,4 @@ class CoCreateDataGoogleAuth {
 
 	
 }//end Class 
-module.exports = CoCreateDataGoogleAuth;
+module.exports = CoCreateGoogleAuth;
