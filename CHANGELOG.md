@@ -1,3 +1,10 @@
+## [1.0.5](https://github.com/CoCreate-app/CoCreate-google-auth/compare/v1.0.4...v1.0.5) (2021-04-24)
+
+
+### Bug Fixes
+
+* update varable names ([6e3b62c](https://github.com/CoCreate-app/CoCreate-google-auth/commit/6e3b62caf98617acdb1179b56a0695df14ae4f61))
+
 ## [1.0.4](https://github.com/CoCreate-app/CoCreate-google-auth/compare/v1.0.3...v1.0.4) (2021-04-23)
 
 
