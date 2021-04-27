@@ -1,3 +1,10 @@
+## [1.0.7](https://github.com/CoCreate-app/CoCreate-google-auth/compare/v1.0.6...v1.0.7) (2021-04-27)
+
+
+### Bug Fixes
+
+* add host in docs ([440061e](https://github.com/CoCreate-app/CoCreate-google-auth/commit/440061e31aec9dc6bd4a3b0d1be638400b291bd0))
+
 ## [1.0.6](https://github.com/CoCreate-app/CoCreate-google-auth/compare/v1.0.5...v1.0.6) (2021-04-27)
 
 
