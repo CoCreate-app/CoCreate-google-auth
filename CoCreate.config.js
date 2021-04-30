@@ -10,7 +10,7 @@ module.exports = {
             "path": "./docs/index.html",
             "collection": "files",
             "document_id": "60283ca871064611a678a1a7",
-            "key": "html",
+            "key": "src",
             "data":{
                 "name": "google-auth Doc",
                 "domains": ["cocreate.app", "server.cocreate.app", "ws.cocreate.app"],
