@@ -1,3 +1,10 @@
+## [1.0.8](https://github.com/CoCreate-app/CoCreate-google-auth/compare/v1.0.7...v1.0.8) (2021-05-08)
+
+
+### Bug Fixes
+
+* add css auto parse and save to docs. ([7c4fef1](https://github.com/CoCreate-app/CoCreate-google-auth/commit/7c4fef1ba5293cc3532025c5c6d8b9a4ca5ae966))
+
 ## [1.0.7](https://github.com/CoCreate-app/CoCreate-google-auth/compare/v1.0.6...v1.0.7) (2021-04-27)
 
 
