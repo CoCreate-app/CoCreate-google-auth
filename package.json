@@ -62,10 +62,13 @@
   "dependencies": {
     "@cocreate/api": "^1.0.7",
     "@cocreate/docs": "^1.0.3",
+    "@cocreate/socket-client": "^1.0.9",
+    "axios": "^0.21.1",
     "google-auth-library": "^7.0.4",
     "open": "^8.0.6",
     "passport": "^0.4.1",
     "passport-google-oauth": "^2.0.0",
+    "qs": "^6.10.1",
     "server-destroy": "^1.0.1"
   }
 }
