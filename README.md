@@ -19,10 +19,6 @@ For a complete guide and working demo refer to the [doumentation](https://cocrea
 <script src="https://cdn.cocreate.app/google-auth/latest/CoCreate-google-auth.min.js"></script>
 ```
 
-```html
-<script src="https://cdn.cocreate.app/google-auth/latest/CoCreate-google-auth.min.css"></script>
-```
-
 ## NPM
 
 ```shell
