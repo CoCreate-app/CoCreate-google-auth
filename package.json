@@ -60,9 +60,9 @@
     "webpack-log": "^3.0.1"
   },
   "dependencies": {
-    "@cocreate/api": "^1.0.0",
-    "@cocreate/docs": "^1.0.0",
-    "@cocreate/socket-client": "^1.0.0",
+    "@cocreate/api": "^1.0.17",
+    "@cocreate/docs": "^1.1.14",
+    "@cocreate/socket-client": "^1.1.5",
     "axios": "^0.21.1",
     "google-auth-library": "^7.0.4",
     "open": "^8.0.6",
