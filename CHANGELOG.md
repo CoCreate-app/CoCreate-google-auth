@@ -1,3 +1,11 @@
+## [1.0.17](https://github.com/CoCreate-app/CoCreate-google-auth/compare/v1.0.16...v1.0.17) (2021-07-13)
+
+
+### Bug Fixes
+
+* add yarn lockfile to git ignore ([da5f133](https://github.com/CoCreate-app/CoCreate-google-auth/commit/da5f1332f98264148fd49f8019e7bf094f0378ff))
+* remove yarn.lock ([e870e92](https://github.com/CoCreate-app/CoCreate-google-auth/commit/e870e92f99783d70cb7fc7d447ca21d3d7230479))
+
 ## [1.0.16](https://github.com/CoCreate-app/CoCreate-google-auth/compare/v1.0.15...v1.0.16) (2021-07-10)
 
 
