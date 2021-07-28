@@ -1,3 +1,15 @@
+# [1.1.0](https://github.com/CoCreate-app/CoCreate-google-auth/compare/v1.0.19...v1.1.0) (2021-07-28)
+
+
+### Bug Fixes
+
+* remove data- from fetch, pass and filter ([f0222bb](https://github.com/CoCreate-app/CoCreate-google-auth/commit/f0222bbc506dfd771976c6238b97c313a7e895d7))
+
+
+### Features
+
+* add new is{attribute} system and remove data- from attributtes ([57fa13b](https://github.com/CoCreate-app/CoCreate-google-auth/commit/57fa13bd88a885c479739592e0fecb2cb154ade0))
+
 ## [1.0.19](https://github.com/CoCreate-app/CoCreate-google-auth/compare/v1.0.18...v1.0.19) (2021-07-17)
 
 
