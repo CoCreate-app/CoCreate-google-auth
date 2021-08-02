@@ -1,3 +1,11 @@
+## [1.1.1](https://github.com/CoCreate-app/CoCreate-google-auth/compare/v1.1.0...v1.1.1) (2021-08-02)
+
+
+### Bug Fixes
+
+* remove data- from attributes ([438f718](https://github.com/CoCreate-app/CoCreate-google-auth/commit/438f718b4db08876333b52dabc01e5a40da61340))
+* update data-fullscreen to fullscreen ([5b2d89f](https://github.com/CoCreate-app/CoCreate-google-auth/commit/5b2d89fb62769e1831158cc053c06d51da001b8c))
+
 # [1.1.0](https://github.com/CoCreate-app/CoCreate-google-auth/compare/v1.0.19...v1.1.0) (2021-07-28)
 
 
