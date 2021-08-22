@@ -1,3 +1,10 @@
+## [1.1.5](https://github.com/CoCreate-app/CoCreate-google-auth/compare/v1.1.4...v1.1.5) (2021-08-22)
+
+
+### Bug Fixes
+
+* removed data- from main-content, clone, filter-value_type ([c4b663b](https://github.com/CoCreate-app/CoCreate-google-auth/commit/c4b663be8b5caa7663918e042c90140602894144))
+
 ## [1.1.4](https://github.com/CoCreate-app/CoCreate-google-auth/compare/v1.1.3...v1.1.4) (2021-08-22)
 
 
