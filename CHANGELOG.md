@@ -1,3 +1,10 @@
+## [1.1.4](https://github.com/CoCreate-app/CoCreate-google-auth/compare/v1.1.3...v1.1.4) (2021-08-22)
+
+
+### Bug Fixes
+
+* bump package versions ([8daeddd](https://github.com/CoCreate-app/CoCreate-google-auth/commit/8daedddbf5472f0d23ea327ae25d3675b71b274b))
+
 ## [1.1.3](https://github.com/CoCreate-app/CoCreate-google-auth/compare/v1.1.2...v1.1.3) (2021-08-22)
 
 
