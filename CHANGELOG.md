@@ -1,3 +1,10 @@
+## [1.1.11](https://github.com/CoCreate-app/CoCreate-google-auth/compare/v1.1.10...v1.1.11) (2021-09-09)
+
+
+### Bug Fixes
+
+* CoCreate.config directory, path, name and  public ([9044217](https://github.com/CoCreate-app/CoCreate-google-auth/commit/9044217e4f83570d03927090501fd095ad63b2fc))
+
 ## [1.1.10](https://github.com/CoCreate-app/CoCreate-google-auth/compare/v1.1.9...v1.1.10) (2021-09-08)
 
 
