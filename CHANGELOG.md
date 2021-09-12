@@ -1,3 +1,10 @@
+## [1.1.15](https://github.com/CoCreate-app/CoCreate-google-auth/compare/v1.1.14...v1.1.15) (2021-09-12)
+
+
+### Bug Fixes
+
+* update sidenav to use resize and toggle ([a49eded](https://github.com/CoCreate-app/CoCreate-google-auth/commit/a49eded0fe3d446ea3ac0c0d7151758de5083547))
+
 ## [1.1.14](https://github.com/CoCreate-app/CoCreate-google-auth/compare/v1.1.13...v1.1.14) (2021-09-09)
 
 
