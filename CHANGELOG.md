@@ -1,3 +1,10 @@
+## [1.1.17](https://github.com/CoCreate-app/CoCreate-google-auth/compare/v1.1.16...v1.1.17) (2021-09-14)
+
+
+### Bug Fixes
+
+* add cocreate.app to domains ([ae981c3](https://github.com/CoCreate-app/CoCreate-google-auth/commit/ae981c3866f866e0ab40dcb4e1a67c8e7a050639))
+
 ## [1.1.16](https://github.com/CoCreate-app/CoCreate-google-auth/compare/v1.1.15...v1.1.16) (2021-09-13)
 
 
