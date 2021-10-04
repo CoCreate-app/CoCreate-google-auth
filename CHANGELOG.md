@@ -1,3 +1,10 @@
+## [1.1.22](https://github.com/CoCreate-app/CoCreate-google-auth/compare/v1.1.21...v1.1.22) (2021-10-04)
+
+
+### Bug Fixes
+
+* update dependencies ([85e0e10](https://github.com/CoCreate-app/CoCreate-google-auth/commit/85e0e106003e4000a149e021fe799df73e243983))
+
 ## [1.1.21](https://github.com/CoCreate-app/CoCreate-google-auth/compare/v1.1.20...v1.1.21) (2021-10-01)
 
 
