@@ -1,3 +1,10 @@
+## [1.1.31](https://github.com/CoCreate-app/CoCreate-google-auth/compare/v1.1.30...v1.1.31) (2021-10-16)
+
+
+### Bug Fixes
+
+* update socket package to fix bug in docs ([b19fd9f](https://github.com/CoCreate-app/CoCreate-google-auth/commit/b19fd9f1cb5fc6930aa704a202b16a2c5b0dc680))
+
 ## [1.1.30](https://github.com/CoCreate-app/CoCreate-google-auth/compare/v1.1.29...v1.1.30) (2021-10-15)
 
 
