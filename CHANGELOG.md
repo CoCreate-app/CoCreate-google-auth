@@ -1,3 +1,10 @@
+## [1.1.47](https://github.com/CoCreate-app/CoCreate-google-auth/compare/v1.1.46...v1.1.47) (2021-11-26)
+
+
+### Bug Fixes
+
+* docs sidenav width ([11f1b34](https://github.com/CoCreate-app/CoCreate-google-auth/commit/11f1b3410aec0acbba465340cf03dfd3fc14f633))
+
 ## [1.1.46](https://github.com/CoCreate-app/CoCreate-google-auth/compare/v1.1.45...v1.1.46) (2021-11-26)
 
 
