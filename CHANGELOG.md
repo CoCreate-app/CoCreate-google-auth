@@ -1,3 +1,10 @@
+## [1.1.48](https://github.com/CoCreate-app/CoCreate-google-auth/compare/v1.1.47...v1.1.48) (2021-11-27)
+
+
+### Bug Fixes
+
+* update docs api and cocreateJS script ([685df66](https://github.com/CoCreate-app/CoCreate-google-auth/commit/685df66c70e0d281f22ab0a1db26fddd1aade8d3))
+
 ## [1.1.47](https://github.com/CoCreate-app/CoCreate-google-auth/compare/v1.1.46...v1.1.47) (2021-11-26)
 
 
