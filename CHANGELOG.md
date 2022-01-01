@@ -1,3 +1,10 @@
+## [1.1.54](https://github.com/CoCreate-app/CoCreate-google-auth/compare/v1.1.53...v1.1.54) (2022-01-01)
+
+
+### Bug Fixes
+
+* get-value attribute value now supports a selector added # to all values currently in get-value attributes ([0cc6e77](https://github.com/CoCreate-app/CoCreate-google-auth/commit/0cc6e773fe462413c14342ec2b49c6dee0ee33d1))
+
 ## [1.1.53](https://github.com/CoCreate-app/CoCreate-google-auth/compare/v1.1.52...v1.1.53) (2022-01-01)
 
 
