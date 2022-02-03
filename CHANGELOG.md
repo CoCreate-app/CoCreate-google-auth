@@ -1,3 +1,10 @@
+## [1.1.56](https://github.com/CoCreate-app/CoCreate-google-auth/compare/v1.1.55...v1.1.56) (2022-02-03)
+
+
+### Bug Fixes
+
+* replaced show and hide class hidden with attribute hidden ([243bade](https://github.com/CoCreate-app/CoCreate-google-auth/commit/243bade100c07693f2ff30928a0f2a50a549def1))
+
 ## [1.1.55](https://github.com/CoCreate-app/CoCreate-google-auth/compare/v1.1.54...v1.1.55) (2022-02-01)
 
 
