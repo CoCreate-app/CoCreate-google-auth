@@ -1,3 +1,15 @@
+# [1.2.0](https://github.com/CoCreate-app/CoCreate-google-auth/compare/v1.1.58...v1.2.0) (2022-02-16)
+
+
+### Bug Fixes
+
+* update param name org_row to org ([ee845d9](https://github.com/CoCreate-app/CoCreate-google-auth/commit/ee845d966ea49c7eb66a78e19e10e2979c415a58))
+
+
+### Features
+
+* define request and response functions, if functions are not deifne defualt functions exist that will request and render results. Reduced and improved code quality ([8e7e546](https://github.com/CoCreate-app/CoCreate-google-auth/commit/8e7e54672bdd2895a8253321024f74ae957e854b))
+
 ## [1.1.58](https://github.com/CoCreate-app/CoCreate-google-auth/compare/v1.1.57...v1.1.58) (2022-02-10)
 
 
