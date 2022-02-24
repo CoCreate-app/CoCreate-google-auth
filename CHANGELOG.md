@@ -1,3 +1,11 @@
+## [1.2.2](https://github.com/CoCreate-app/CoCreate-google-auth/compare/v1.2.1...v1.2.2) (2022-02-24)
+
+
+### Bug Fixes
+
+* CoCreate.config replace CoCreate.app with * ([1fc3400](https://github.com/CoCreate-app/CoCreate-google-auth/commit/1fc3400658f553cb043f8e124ba87f494d05dd1b))
+* get environemt and keys using dot notation ([3c85e18](https://github.com/CoCreate-app/CoCreate-google-auth/commit/3c85e180c7b8c246f838a8a7fd298e095be2b368))
+
 ## [1.2.1](https://github.com/CoCreate-app/CoCreate-google-auth/compare/v1.2.0...v1.2.1) (2022-02-16)
 
 
