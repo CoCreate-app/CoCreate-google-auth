@@ -1,3 +1,10 @@
+## [1.2.3](https://github.com/CoCreate-app/CoCreate-google-auth/compare/v1.2.2...v1.2.3) (2022-02-27)
+
+
+### Bug Fixes
+
+* update param  module to component ([1c1eb9e](https://github.com/CoCreate-app/CoCreate-google-auth/commit/1c1eb9e13ffe435ed33cb3e8185c8d8418df422f))
+
 ## [1.2.2](https://github.com/CoCreate-app/CoCreate-google-auth/compare/v1.2.1...v1.2.2) (2022-02-24)
 
 
