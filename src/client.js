@@ -15,7 +15,7 @@ const CoCreateGoogleAuth = {
 
 api.init({
 	name: CoCreateGoogleAuth.name, 
-	module:	CoCreateGoogleAuth,
+	component:	CoCreateGoogleAuth,
 });
 
 export default CoCreateGoogleAuth;

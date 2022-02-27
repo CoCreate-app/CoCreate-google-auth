@@ -11,7 +11,7 @@ const destroyer = require('server-destroy');
 
 class CoCreateGoogleAuth {
 	constructor(wsManager) {
-		this.moduleName = 'googleauth';
+		this.name = 'googleauth';
 		this.wsManager = wsManager;
 		this.init();
 		this.GOOGLE_CLIENT_ID=null;
@@ -20,7 +20,7 @@ class CoCreateGoogleAuth {
 	
 	init() {
 		if (this.wsManager) {
-			this.wsManager.on(this.moduleName,(socket, data) => this.GoogleAuthOperations(socket, data));
+			this.wsManager.on(this.name,(socket, data) => this.GoogleAuthOperations(socket, data));
 		}
 	}
 
@@ -31,17 +31,17 @@ class CoCreateGoogleAuth {
     let action = data['action'];
     
     try{
-      let org = await api.getOrg(data, this.moduleName);
+      let org = await api.getOrg(data, this.name);
       if (params.environment){
         environment = params['environment'];
         delete params['environment'];  
       } else {
-        environment = org.apis[this.moduleName].environment;
+        environment = org.apis[this.name].environment;
       }
-      this.GOOGLE_CLIENT_ID = org.apis[this.moduleName][environment].GOOGLE_CLIENT_ID'];
-      this.GOOGLE_CLIENT_SECRET = org.apis[this.moduleName][environment].GOOGLE_CLIENT_SECRET'];
+      this.GOOGLE_CLIENT_ID = org.apis[this.name][environment].GOOGLE_CLIENT_ID'];
+      this.GOOGLE_CLIENT_SECRET = org.apis[this.name][environment].GOOGLE_CLIENT_SECRET'];
     }catch(e){
-      console.log(this.moduleName+" : Error Connect to api",e)
+      console.log(this.name+" : Error Connect to api",e)
       return false;
     }
     
@@ -51,7 +51,7 @@ class CoCreateGoogleAuth {
           const oAuth2Client = await this.getAuthenticatedClient(that, socket, action);
           const url = 'https://people.googleapis.com/v1/people/me?personFields=names';
           const res = await oAuth2Client.request({url});
-          this.wsManager.send(socket, this.moduleName, { action, response })
+          this.wsManager.send(socket, this.name, { action, response })
           break;
       }
     } catch (error) {
@@ -65,7 +65,7 @@ class CoCreateGoogleAuth {
       'object': 'error',
       'data': error || error.response || error.response.data || error.response.body || error.message || error,
     };
-    this.wsManager.send(socket, this.moduleName, { action, response })
+    this.wsManager.send(socket, this.name, { action, response })
   }
         
 	
@@ -112,7 +112,7 @@ class CoCreateGoogleAuth {
           }
         })
         .listen(port, () => {
-            this.wsManager.send(socket, this.moduleName, { action, response:authorizeUrl })
+            this.wsManager.send(socket, this.name, { action, response:authorizeUrl })
             // // open the browser to the authorize url to start the workflow
           // open(authorizeUrl, {wait: false}).then(cp => cp.unref());
         });
