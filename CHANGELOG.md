@@ -1,3 +1,10 @@
+## [1.2.4](https://github.com/CoCreate-app/CoCreate-google-auth/compare/v1.2.3...v1.2.4) (2022-02-28)
+
+
+### Bug Fixes
+
+* this.GOOGLE_CLIENT_ID syntax error ([af97aa6](https://github.com/CoCreate-app/CoCreate-google-auth/commit/af97aa6f1175a6236886de592409e45c9ee87ab5))
+
 ## [1.2.3](https://github.com/CoCreate-app/CoCreate-google-auth/compare/v1.2.2...v1.2.3) (2022-02-27)
 
 
