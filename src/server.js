@@ -38,8 +38,8 @@ class CoCreateGoogleAuth {
       } else {
         environment = org.apis[this.name].environment;
       }
-      this.GOOGLE_CLIENT_ID = org.apis[this.name][environment].GOOGLE_CLIENT_ID'];
-      this.GOOGLE_CLIENT_SECRET = org.apis[this.name][environment].GOOGLE_CLIENT_SECRET'];
+      this.GOOGLE_CLIENT_ID = org.apis[this.name][environment].GOOGLE_CLIENT_ID;
+      this.GOOGLE_CLIENT_SECRET = org.apis[this.name][environment].GOOGLE_CLIENT_SECRET;
     }catch(e){
       console.log(this.name+" : Error Connect to api",e)
       return false;
