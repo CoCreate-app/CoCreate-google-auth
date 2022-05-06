@@ -1,3 +1,10 @@
+## [1.2.5](https://github.com/CoCreate-app/CoCreate-google-auth/compare/v1.2.4...v1.2.5) (2022-05-06)
+
+
+### Bug Fixes
+
+* update config organization_Id to organization_id ([16405d9](https://github.com/CoCreate-app/CoCreate-google-auth/commit/16405d982a5824b7698da2460e67314bd98ab72f))
+
 ## [1.2.4](https://github.com/CoCreate-app/CoCreate-google-auth/compare/v1.2.3...v1.2.4) (2022-02-28)
 
 
