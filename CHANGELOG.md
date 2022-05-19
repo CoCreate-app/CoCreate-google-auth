@@ -1,3 +1,10 @@
+## [1.2.6](https://github.com/CoCreate-app/CoCreate-google-auth/compare/v1.2.5...v1.2.6) (2022-05-19)
+
+
+### Bug Fixes
+
+* update document_id on link index.css ([3553c8d](https://github.com/CoCreate-app/CoCreate-google-auth/commit/3553c8dc38a349aac22334b7aeac5cbd8ba16471))
+
 ## [1.2.5](https://github.com/CoCreate-app/CoCreate-google-auth/compare/v1.2.4...v1.2.5) (2022-05-06)
 
 
