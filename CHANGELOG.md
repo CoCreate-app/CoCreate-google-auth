@@ -1,3 +1,10 @@
+## [1.2.11](https://github.com/CoCreate-app/CoCreate-google-auth/compare/v1.2.10...v1.2.11) (2022-09-29)
+
+
+### Bug Fixes
+
+* config renameed to CoCreateConfig ([c935fb8](https://github.com/CoCreate-app/CoCreate-google-auth/commit/c935fb83fc8caf0f0e04ff230c4408277ad0d7a3))
+
 ## [1.2.10](https://github.com/CoCreate-app/CoCreate-google-auth/compare/v1.2.9...v1.2.10) (2022-09-01)
 
 
