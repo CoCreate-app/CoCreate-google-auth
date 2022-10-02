@@ -1,3 +1,10 @@
+## [1.2.19](https://github.com/CoCreate-app/CoCreate-google-auth/compare/v1.2.18...v1.2.19) (2022-10-02)
+
+
+### Bug Fixes
+
+* minor bug fixes ([917d8fc](https://github.com/CoCreate-app/CoCreate-google-auth/commit/917d8fc83202eed65839efaf45da27e4808f8dbc))
+
 ## [1.2.18](https://github.com/CoCreate-app/CoCreate-google-auth/compare/v1.2.17...v1.2.18) (2022-10-02)
 
 
