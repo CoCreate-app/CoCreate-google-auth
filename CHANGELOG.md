@@ -1,3 +1,10 @@
+## [1.2.18](https://github.com/CoCreate-app/CoCreate-google-auth/compare/v1.2.17...v1.2.18) (2022-10-02)
+
+
+### Bug Fixes
+
+* bump @cocreate/hosting and @cocreate/socket-client ([423dd0d](https://github.com/CoCreate-app/CoCreate-google-auth/commit/423dd0d24e8b8a64936e6a122bf20b4e465717db))
+
 ## [1.2.17](https://github.com/CoCreate-app/CoCreate-google-auth/compare/v1.2.16...v1.2.17) (2022-10-01)
 
 
