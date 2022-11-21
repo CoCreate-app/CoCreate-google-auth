@@ -1,3 +1,10 @@
+## [1.2.22](https://github.com/CoCreate-app/CoCreate-google-auth/compare/v1.2.21...v1.2.22) (2022-11-21)
+
+
+### Bug Fixes
+
+* replaced document_id with document._id ([e29a59b](https://github.com/CoCreate-app/CoCreate-google-auth/commit/e29a59bade4ee739a9fb7f0caed187c740f44c04))
+
 ## [1.2.21](https://github.com/CoCreate-app/CoCreate-google-auth/compare/v1.2.20...v1.2.21) (2022-11-21)
 
 
