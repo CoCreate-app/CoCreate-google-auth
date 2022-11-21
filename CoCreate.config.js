@@ -10,7 +10,7 @@ module.exports = {
             "collection": "files",
             "document_id": "60283ca871064611a678a1a7",
             "key": "src",
-            "data":{
+            "document": {
                 "name": "index.html",
                 "path": "/docs/google-auth/index.html",
                 "domains": [
