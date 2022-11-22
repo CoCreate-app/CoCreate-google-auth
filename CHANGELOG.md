@@ -1,3 +1,10 @@
+## [1.2.24](https://github.com/CoCreate-app/CoCreate-google-auth/compare/v1.2.23...v1.2.24) (2022-11-22)
+
+
+### Bug Fixes
+
+* apply src: {{source}} to CoCreate.config ([bf08492](https://github.com/CoCreate-app/CoCreate-google-auth/commit/bf084920ef4812376659ded6b285fbfdc9536a02))
+
 ## [1.2.23](https://github.com/CoCreate-app/CoCreate-google-auth/compare/v1.2.22...v1.2.23) (2022-11-21)
 
 
