@@ -1,3 +1,10 @@
+## [1.2.42](https://github.com/CoCreate-app/CoCreate-google-auth/compare/v1.2.41...v1.2.42) (2022-12-15)
+
+
+### Bug Fixes
+
+* add missing dev dependency style-loader ([3284a85](https://github.com/CoCreate-app/CoCreate-google-auth/commit/3284a8582e78eb73eb60b03289d51aaf10cdf9f9))
+
 ## [1.2.41](https://github.com/CoCreate-app/CoCreate-google-auth/compare/v1.2.40...v1.2.41) (2022-12-13)
 
 
