@@ -1,3 +1,10 @@
+## [1.2.51](https://github.com/CoCreate-app/CoCreate-google-auth/compare/v1.2.50...v1.2.51) (2022-12-30)
+
+
+### Bug Fixes
+
+* update config sources to use template  braces with entry on src ([6cf19ef](https://github.com/CoCreate-app/CoCreate-google-auth/commit/6cf19efdaf6d9f52cefc1b8cadc5bed2dab948c2))
+
 ## [1.2.50](https://github.com/CoCreate-app/CoCreate-google-auth/compare/v1.2.49...v1.2.50) (2022-12-29)
 
 
