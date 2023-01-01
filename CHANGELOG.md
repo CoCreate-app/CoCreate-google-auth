@@ -1,3 +1,10 @@
+## [1.2.53](https://github.com/CoCreate-app/CoCreate-google-auth/compare/v1.2.52...v1.2.53) (2023-01-01)
+
+
+### Bug Fixes
+
+* docs sanbox overflow ([2e8385a](https://github.com/CoCreate-app/CoCreate-google-auth/commit/2e8385a7448578074152b4312bfde3496b95c99d))
+
 ## [1.2.52](https://github.com/CoCreate-app/CoCreate-google-auth/compare/v1.2.51...v1.2.52) (2022-12-31)
 
 
