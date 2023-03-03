@@ -1,7 +1,7 @@
 import api from '@cocreate/api'
 const CoCreateGoogleAuth = {
 	name: 'googleauth',
-	actions: {
+	endPoints: {
 		generateAuthURL: {
 			response: function (data) {
 				if (data.object == "error") {
@@ -13,9 +13,6 @@ const CoCreateGoogleAuth = {
 	}	
 }
 
-api.init({
-	name: CoCreateGoogleAuth.name, 
-	component:	CoCreateGoogleAuth,
-});
+api.init(CoCreateGoogleAuth);
 
 export default CoCreateGoogleAuth;
