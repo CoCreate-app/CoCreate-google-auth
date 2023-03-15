@@ -1,3 +1,10 @@
+## [1.2.65](https://github.com/CoCreate-app/CoCreate-google-auth/compare/v1.2.64...v1.2.65) (2023-03-15)
+
+
+### Bug Fixes
+
+* actions object renamed to endPoints ([47cf0ea](https://github.com/CoCreate-app/CoCreate-google-auth/commit/47cf0ea99e586550409ad64f9a0e52d5c435ad3e))
+
 ## [1.2.64](https://github.com/CoCreate-app/CoCreate-google-auth/compare/v1.2.63...v1.2.64) (2023-02-01)
 
 
