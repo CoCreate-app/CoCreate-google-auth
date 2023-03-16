@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/CoCreate-app/CoCreate-google-auth/compare/v1.2.65...v1.3.0) (2023-03-16)
+
+
+### Features
+
+* replaced get-value and set-value with a super charged version of CoCreate-events ([b1bb402](https://github.com/CoCreate-app/CoCreate-google-auth/commit/b1bb402dcf7fc0ec701317ec4970835610e44d70))
+
 ## [1.2.65](https://github.com/CoCreate-app/CoCreate-google-auth/compare/v1.2.64...v1.2.65) (2023-03-15)
 
 
