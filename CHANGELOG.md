@@ -1,3 +1,10 @@
+## [1.3.4](https://github.com/CoCreate-app/CoCreate-google-auth/compare/v1.3.3...v1.3.4) (2023-04-11)
+
+
+### Bug Fixes
+
+* renamed domains to hosts ([3214018](https://github.com/CoCreate-app/CoCreate-google-auth/commit/32140189481fe8b989b037350191bd2379c68f3c))
+
 ## [1.3.3](https://github.com/CoCreate-app/CoCreate-google-auth/compare/v1.3.2...v1.3.3) (2023-03-30)
 
 
