@@ -1,3 +1,10 @@
+## [1.4.3](https://github.com/CoCreate-app/CoCreate-google-auth/compare/v1.4.2...v1.4.3) (2023-04-24)
+
+
+### Bug Fixes
+
+* workflow node version updated  16 ([5865e45](https://github.com/CoCreate-app/CoCreate-google-auth/commit/5865e456c6f573db3d243dd6c3f35e46e479b97e))
+
 ## [1.4.2](https://github.com/CoCreate-app/CoCreate-google-auth/compare/v1.4.1...v1.4.2) (2023-04-24)
 
 
