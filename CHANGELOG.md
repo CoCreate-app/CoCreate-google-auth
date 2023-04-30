@@ -1,3 +1,12 @@
+## [1.4.5](https://github.com/CoCreate-app/CoCreate-google-auth/compare/v1.4.4...v1.4.5) (2023-04-30)
+
+
+### Bug Fixes
+
+* fullscreen target updated to fullscreen fullscreen-target ([eeb2fc8](https://github.com/CoCreate-app/CoCreate-google-auth/commit/eeb2fc830268a8c888437bc95805a63fad6780f0))
+* package-lock.json and pnpm-lock.yaml added to .gitignore ([1fe6c13](https://github.com/CoCreate-app/CoCreate-google-auth/commit/1fe6c13376ad0d05ab5c4af6276840ebba274e09))
+* removed toogle fullscreen icons. now using css content ([4f9f322](https://github.com/CoCreate-app/CoCreate-google-auth/commit/4f9f3229539c3ebea83bf5833aab6656afbf8142))
+
 ## [1.4.4](https://github.com/CoCreate-app/CoCreate-google-auth/compare/v1.4.3...v1.4.4) (2023-04-24)
 
 
