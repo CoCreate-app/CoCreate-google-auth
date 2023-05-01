@@ -1,3 +1,10 @@
+## [1.4.6](https://github.com/CoCreate-app/CoCreate-google-auth/compare/v1.4.5...v1.4.6) (2023-05-01)
+
+
+### Bug Fixes
+
+* replace fontawesome with svg ([1ba02fa](https://github.com/CoCreate-app/CoCreate-google-auth/commit/1ba02fa3a511d6b40a7580d7dc545f908c7ba9d1))
+
 ## [1.4.5](https://github.com/CoCreate-app/CoCreate-google-auth/compare/v1.4.4...v1.4.5) (2023-04-30)
 
 
