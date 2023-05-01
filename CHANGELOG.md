@@ -1,3 +1,10 @@
+## [1.4.7](https://github.com/CoCreate-app/CoCreate-google-auth/compare/v1.4.6...v1.4.7) (2023-05-01)
+
+
+### Bug Fixes
+
+* update manifest.json to manifest.webmanifest ([f317a59](https://github.com/CoCreate-app/CoCreate-google-auth/commit/f317a59a96c187b75cc07120e75f9c63d949b6ed))
+
 ## [1.4.6](https://github.com/CoCreate-app/CoCreate-google-auth/compare/v1.4.5...v1.4.6) (2023-05-01)
 
 
