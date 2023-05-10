@@ -1,3 +1,10 @@
+## [1.4.9](https://github.com/CoCreate-app/CoCreate-google-auth/compare/v1.4.8...v1.4.9) (2023-05-10)
+
+
+### Bug Fixes
+
+* apikey renamed to key ([16e4e62](https://github.com/CoCreate-app/CoCreate-google-auth/commit/16e4e62a958b5815a2366728e29c7a68649bddbf))
+
 ## [1.4.8](https://github.com/CoCreate-app/CoCreate-google-auth/compare/v1.4.7...v1.4.8) (2023-05-06)
 
 
