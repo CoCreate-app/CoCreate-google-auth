@@ -1,3 +1,10 @@
+## [1.4.10](https://github.com/CoCreate-app/CoCreate-google-auth/compare/v1.4.9...v1.4.10) (2023-05-19)
+
+
+### Bug Fixes
+
+* update packages to latest version. This commit updates various packages in the dependencies section of the package.json file to their latest published versions, thereby fixing multiple bugs and improving overall performance. ([b1ca292](https://github.com/CoCreate-app/CoCreate-google-auth/commit/b1ca2925e11a0037093905a95302c13a8b74785e))
+
 ## [1.4.9](https://github.com/CoCreate-app/CoCreate-google-auth/compare/v1.4.8...v1.4.9) (2023-05-10)
 
 
