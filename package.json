@@ -58,8 +58,8 @@
     "webpack-log": "^3.0.1"
   },
   "dependencies": {
-    "@cocreate/api": "^1.10.12",
-    "@cocreate/docs": "^1.7.12",
+    "@cocreate/api": "^1.10.13",
+    "@cocreate/docs": "^1.7.13",
     "axios": "^0.21.1",
     "google-auth-library": "^7.0.4",
     "open": "^8.0.6",
