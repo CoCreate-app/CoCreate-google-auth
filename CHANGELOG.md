@@ -1,3 +1,10 @@
+## [1.4.12](https://github.com/CoCreate-app/CoCreate-google-auth/compare/v1.4.11...v1.4.12) (2023-06-02)
+
+
+### Bug Fixes
+
+* format demo html ([20313c1](https://github.com/CoCreate-app/CoCreate-google-auth/commit/20313c151ee9dc788e641d87ee6ad82e9a66fba2))
+
 ## [1.4.11](https://github.com/CoCreate-app/CoCreate-google-auth/compare/v1.4.10...v1.4.11) (2023-05-21)
 
 
