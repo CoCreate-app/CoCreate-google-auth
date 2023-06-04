@@ -1,3 +1,10 @@
+## [1.4.15](https://github.com/CoCreate-app/CoCreate-google-auth/compare/v1.4.14...v1.4.15) (2023-06-04)
+
+
+### Bug Fixes
+
+* Refactor CoCreate.config.js to remove hard-coded credentials ([4b2d9ca](https://github.com/CoCreate-app/CoCreate-google-auth/commit/4b2d9cac1f0c8a67bdf9932f61fd9a2efcca47a2))
+
 ## [1.4.14](https://github.com/CoCreate-app/CoCreate-google-auth/compare/v1.4.13...v1.4.14) (2023-06-04)
 
 
