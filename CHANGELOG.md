@@ -1,3 +1,11 @@
+## [1.4.14](https://github.com/CoCreate-app/CoCreate-google-auth/compare/v1.4.13...v1.4.14) (2023-06-04)
+
+
+### Bug Fixes
+
+* replaced secert GITHUB_TOKEN with GITHUB ([27d98ed](https://github.com/CoCreate-app/CoCreate-google-auth/commit/27d98ed12459956a1d1c92246e6ecb03fa78ba26))
+* Update dependencies versions for [@cocreate](https://github.com/cocreate) libraries ([0543864](https://github.com/CoCreate-app/CoCreate-google-auth/commit/054386426978d2322cdd75a92b58dab9403983fe))
+
 ## [1.4.13](https://github.com/CoCreate-app/CoCreate-google-auth/compare/v1.4.12...v1.4.13) (2023-06-04)
 
 
