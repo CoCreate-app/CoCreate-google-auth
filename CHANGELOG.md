@@ -1,3 +1,10 @@
+## [1.4.13](https://github.com/CoCreate-app/CoCreate-google-auth/compare/v1.4.12...v1.4.13) (2023-06-04)
+
+
+### Bug Fixes
+
+* **semantic-release:** worklow error solved by running node version 14 ([d319eb8](https://github.com/CoCreate-app/CoCreate-google-auth/commit/d319eb8b9496a4e21ce9acb67c3c79e035125d91))
+
 ## [1.4.12](https://github.com/CoCreate-app/CoCreate-google-auth/compare/v1.4.11...v1.4.12) (2023-06-02)
 
 
