@@ -61,7 +61,7 @@
   },
   "dependencies": {
     "@cocreate/api": "^1.10.17",
-    "@cocreate/docs": "^1.8.2",
+    "@cocreate/docs": "^1.8.13",
     "axios": "^0.21.1",
     "google-auth-library": "^7.0.4",
     "open": "^8.0.6",
