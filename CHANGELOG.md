@@ -1,3 +1,10 @@
+## [1.4.18](https://github.com/CoCreate-app/CoCreate-google-auth/compare/v1.4.17...v1.4.18) (2023-06-11)
+
+
+### Bug Fixes
+
+* renamed hosts to host. the value can be a string or an array of strings ([9ce5e52](https://github.com/CoCreate-app/CoCreate-google-auth/commit/9ce5e526e51740e5f2cca60fb15d063916bdb851))
+
 ## [1.4.17](https://github.com/CoCreate-app/CoCreate-google-auth/compare/v1.4.16...v1.4.17) (2023-06-10)
 
 
