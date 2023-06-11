@@ -1,3 +1,10 @@
+## [1.4.20](https://github.com/CoCreate-app/CoCreate-google-auth/compare/v1.4.19...v1.4.20) (2023-06-11)
+
+
+### Bug Fixes
+
+* @cocreate/cli moved to dependencies ([9d8d8cc](https://github.com/CoCreate-app/CoCreate-google-auth/commit/9d8d8cc93c051d0038baf35d8b8e4374c09428ea))
+
 ## [1.4.19](https://github.com/CoCreate-app/CoCreate-google-auth/compare/v1.4.18...v1.4.19) (2023-06-11)
 
 
