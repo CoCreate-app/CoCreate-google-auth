@@ -1,3 +1,10 @@
+## [1.4.25](https://github.com/CoCreate-app/CoCreate-google-auth/compare/v1.4.24...v1.4.25) (2023-06-11)
+
+
+### Bug Fixes
+
+* testing workflow ([e40bd67](https://github.com/CoCreate-app/CoCreate-google-auth/commit/e40bd67e358d813105cf3eb4814594db06c76a64))
+
 ## [1.4.24](https://github.com/CoCreate-app/CoCreate-google-auth/compare/v1.4.23...v1.4.24) (2023-06-11)
 
 
