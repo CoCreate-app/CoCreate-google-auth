@@ -4,8 +4,8 @@ module.exports = {
     "host": "",
     "sources": [
         {
-            "collection": "files",
-            "document": {
+            "array": "files",
+            "object": {
                 "_id": "60283ca871064611a678a1a7",
                 "name": "index.html",
                 "path": "/docs/google-auth/index.html",
