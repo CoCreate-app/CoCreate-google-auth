@@ -1,3 +1,17 @@
+# [1.5.0](https://github.com/CoCreate-app/CoCreate-google-auth/compare/v1.4.29...v1.5.0) (2023-08-16)
+
+
+### Bug Fixes
+
+* crud attributes renamed ([82d6c52](https://github.com/CoCreate-app/CoCreate-google-auth/commit/82d6c528a52841265c01089376dd0bc544437061))
+* replace -target -selector ([d26b364](https://github.com/CoCreate-app/CoCreate-google-auth/commit/d26b364d36005dae6445f3119c6fcc959c114554))
+* webpack.config and package.json make use of mode=production instead of process.env ([4c451ae](https://github.com/CoCreate-app/CoCreate-google-auth/commit/4c451ae2b7882342cfc438400eae0cb290c21142))
+
+
+### Features
+
+* name attribute and variable renamed to key ([9921a3e](https://github.com/CoCreate-app/CoCreate-google-auth/commit/9921a3e786826ef476fff18e92cbfe4940e207ed))
+
 ## [1.4.29](https://github.com/CoCreate-app/CoCreate-google-auth/compare/v1.4.28...v1.4.29) (2023-06-14)
 
 
