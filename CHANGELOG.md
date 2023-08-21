@@ -1,3 +1,12 @@
+## [1.6.1](https://github.com/CoCreate-app/CoCreate-google-auth/compare/v1.6.0...v1.6.1) (2023-08-21)
+
+
+### Bug Fixes
+
+* /dist/CoCreate.js updated to https://CoCreate.app/dist/CoCreate.js ([d12c5aa](https://github.com/CoCreate-app/CoCreate-google-auth/commit/d12c5aa8bb3c2d6906e0f5819d0cbfb24a7692aa))
+* replace cdn with /dist ([50ec962](https://github.com/CoCreate-app/CoCreate-google-auth/commit/50ec962c8e86144ad7d841b27a4e46416c4625ea))
+* update file uploader ([b01fb0c](https://github.com/CoCreate-app/CoCreate-google-auth/commit/b01fb0cd7a048d69476766874fd9d36b489f6aa6))
+
 # [1.6.0](https://github.com/CoCreate-app/CoCreate-google-auth/compare/v1.5.0...v1.6.0) (2023-08-17)
 
 
