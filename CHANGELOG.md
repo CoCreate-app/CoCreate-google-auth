@@ -1,3 +1,11 @@
+## [1.7.2](https://github.com/CoCreate-app/CoCreate-google-auth/compare/v1.7.1...v1.7.2) (2023-09-18)
+
+
+### Bug Fixes
+
+*  Add path and pathname ([c19fdc5](https://github.com/CoCreate-app/CoCreate-google-auth/commit/c19fdc50289b9471cb00bf03cba5968d6faaf398))
+* Update CoCreate depndencies to latest versions ([e59f5e9](https://github.com/CoCreate-app/CoCreate-google-auth/commit/e59f5e9674e6f61c2bf8b7a3662f7d954c702d34))
+
 ## [1.7.1](https://github.com/CoCreate-app/CoCreate-google-auth/compare/v1.7.0...v1.7.1) (2023-08-21)
 
 
