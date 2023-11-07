@@ -12,8 +12,7 @@ module.exports = {
                 "pathname": "/docs/google-auth/index.html",
                 "src": "{{./docs/index.html}}",
                 "host": [
-                    "*",
-                    "general.cocreate.app"
+                    "*"
                 ],
                 "directory": "google-auth",
                 "content-type": "{{content-type}}",
