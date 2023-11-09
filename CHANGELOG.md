@@ -1,3 +1,11 @@
+## [1.8.6](https://github.com/CoCreate-app/CoCreate-google-auth/compare/v1.8.5...v1.8.6) (2023-11-09)
+
+
+### Bug Fixes
+
+* meta name typo ([810d119](https://github.com/CoCreate-app/CoCreate-google-auth/commit/810d119e1c467b04a8cb4868dbcd335bf24a3366))
+* update host ([3ff8302](https://github.com/CoCreate-app/CoCreate-google-auth/commit/3ff830233b6c883edf7257af9270c6eb26b22b2d))
+
 ## [1.8.5](https://github.com/CoCreate-app/CoCreate-google-auth/compare/v1.8.4...v1.8.5) (2023-11-03)
 
 
