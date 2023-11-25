@@ -1,3 +1,15 @@
+# [1.10.0](https://github.com/CoCreate-app/CoCreate-google-auth/compare/v1.9.0...v1.10.0) (2023-11-25)
+
+
+### Bug Fixes
+
+* update nav, edit button and css path ([12665e1](https://github.com/CoCreate-app/CoCreate-google-auth/commit/12665e163362facbb6111428823e423ce2f058ea))
+
+
+### Features
+
+* upgrade dependencies for latest features and fixes ([d2a9d9f](https://github.com/CoCreate-app/CoCreate-google-auth/commit/d2a9d9f6a8c339e63acb7ef252eef8e4e39db8dc))
+
 # [1.9.0](https://github.com/CoCreate-app/CoCreate-google-auth/compare/v1.8.7...v1.9.0) (2023-11-19)
 
 
