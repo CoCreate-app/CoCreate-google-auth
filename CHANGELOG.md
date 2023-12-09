@@ -1,3 +1,10 @@
+## [1.11.1](https://github.com/CoCreate-app/CoCreate-google-auth/compare/v1.11.0...v1.11.1) (2023-12-09)
+
+
+### Bug Fixes
+
+* getOrg() renamed to getOrganization() ([76691be](https://github.com/CoCreate-app/CoCreate-google-auth/commit/76691beb804d996566ca63982b893958bf80800a))
+
 # [1.11.0](https://github.com/CoCreate-app/CoCreate-google-auth/compare/v1.10.0...v1.11.0) (2023-11-25)
 
 
