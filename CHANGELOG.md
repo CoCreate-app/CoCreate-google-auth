@@ -1,3 +1,10 @@
+## [1.11.2](https://github.com/CoCreate-app/CoCreate-google-auth/compare/v1.11.1...v1.11.2) (2024-02-05)
+
+
+### Bug Fixes
+
+* Removed https://cdn.cocreate.app/latest/CoCreate.min.css ([89c52f0](https://github.com/CoCreate-app/CoCreate-google-auth/commit/89c52f03be20ca7b6186cbf7717906bff43589ad))
+
 ## [1.11.1](https://github.com/CoCreate-app/CoCreate-google-auth/compare/v1.11.0...v1.11.1) (2023-12-09)
 
 
