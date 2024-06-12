@@ -1,3 +1,11 @@
+## [1.11.4](https://github.com/CoCreate-app/CoCreate-google-auth/compare/v1.11.3...v1.11.4) (2024-06-12)
+
+
+### Bug Fixes
+
+* bump cocreate dependencies ([edc746b](https://github.com/CoCreate-app/CoCreate-google-auth/commit/edc746bf893e3a2d0de22b7fdb4ea93e940cfe8a))
+* svg icon class ([858cbd2](https://github.com/CoCreate-app/CoCreate-google-auth/commit/858cbd2ee82be41d8f5e21429d2a99ece2cdbdfb))
+
 ## [1.11.3](https://github.com/CoCreate-app/CoCreate-google-auth/compare/v1.11.2...v1.11.3) (2024-04-29)
 
 
