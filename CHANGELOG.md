@@ -1,3 +1,16 @@
+# [1.12.0](https://github.com/CoCreate-app/CoCreate-google-auth/compare/v1.11.4...v1.12.0) (2024-11-04)
+
+
+### Bug Fixes
+
+* pretier.config.js and file formating ([d5c59cb](https://github.com/CoCreate-app/CoCreate-google-auth/commit/d5c59cb68b9b02fdfd6501b3e2d6eea43b821d46))
+
+
+### Features
+
+* add prettier.config.js and format files ([81f4570](https://github.com/CoCreate-app/CoCreate-google-auth/commit/81f45706437309b372cb508613aebb25b25ca2bc))
+* add prettier.config.js and format files ([1c60211](https://github.com/CoCreate-app/CoCreate-google-auth/commit/1c60211e5ceeb47178bfa47f3f367dccc4b0a266))
+
 ## [1.11.4](https://github.com/CoCreate-app/CoCreate-google-auth/compare/v1.11.3...v1.11.4) (2024-06-12)
 
 
