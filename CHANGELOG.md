@@ -1,3 +1,13 @@
+## [1.12.1](https://github.com/CoCreate-app/CoCreate-google-auth/compare/v1.12.0...v1.12.1) (2025-04-30)
+
+
+### Bug Fixes
+
+* added css-loader ([11d0ef1](https://github.com/CoCreate-app/CoCreate-google-auth/commit/11d0ef1c85fdfe3e66e507e1e557b53c1beb173d))
+* update query attributes ([6d4b1be](https://github.com/CoCreate-app/CoCreate-google-auth/commit/6d4b1bed9f368fcae64d5c78df86b906e82fce77))
+* updated cocreate modules versions ([dd67106](https://github.com/CoCreate-app/CoCreate-google-auth/commit/dd671064433e2268baba7a6c49dd02ad11f3a283))
+* webpack.config and devdependencies ([2fe5db7](https://github.com/CoCreate-app/CoCreate-google-auth/commit/2fe5db738d398eafa485f8f89984fec8535d4ec1))
+
 # [1.12.0](https://github.com/CoCreate-app/CoCreate-google-auth/compare/v1.11.4...v1.12.0) (2024-11-04)
 
 
