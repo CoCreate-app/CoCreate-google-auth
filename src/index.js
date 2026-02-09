@@ -1,14 +1,14 @@
 (function (root, factory) {
     if (typeof define === 'function' && define.amd) {
-        define(["./client"], function(CoCreateGoogleAuth) {
-        	return factory(CoCreateGoogleAuth)
+        define(["./client"], function(Module) {
+        	return factory(Module)
         });
     } else if (typeof module === 'object' && module.exports) {
-      const CoCreateGoogleAuth = require("./server.js")
-      module.exports = factory(CoCreateGoogleAuth);
+      const Module = require("./server.js")
+      module.exports = factory(Module);
     } else {
         root.returnExports = factory(root["./client.js"]);
   }
-}(typeof self !== 'undefined' ? self : this, function (CoCreateGoogleAuth) {
-  return CoCreateGoogleAuth;
+}(typeof self !== 'undefined' ? self : this, function (Module) {
+  return Module;
 }));
